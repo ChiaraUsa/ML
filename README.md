@@ -53,7 +53,7 @@ Estas verificaciones aseguran que el entorno está correctamente configurado y e
 #### Ejecución del Código:
 Una vez configurado el entorno, puedes ejecutar el código en Jupyter Notebook o Google Colab siguiendo estas instrucciones. Asegúrate de que todos los archivos de datos, como `mnist-data.npz`, estén ubicados en la ruta especificada en el script.
 
-##Referencias
+## Referencias
 1. GfG, A. (2020, julio 1). Ways to import CSV files in Google Colab. GeeksforGeeks. https://www.geeksforgeeks.org/ways-to-import-csv-files-in-google-colab/
 
 2. Khadija. (2021, septiembre 8). What if there is a lot of outliers in your dataset. Stack Overflow. https://stackoverflow.com/questions/69104651/what-if-there-is-a-lot-of-outliers-in-your-dataset
